@@ -7,7 +7,7 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 4.3.4"
+# gem "jekyll", "~> 4.3.4"
 
 # trouver la dernière version de github-pages sur https://pages.github.com/versions/
 gem "github-pages", "~>	232", group: :jekyll_plugins
